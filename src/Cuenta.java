@@ -14,7 +14,7 @@ public class Cuenta {
     private double saldo; // variable de instancia que almacena el saldo
 
    // constructor  
-   public Cuenta( double saldoInicial )
+   public Cuenta(double saldoInicial)
    {
       // valida que saldoInicial sea mayor que 0.0; 
       // si no lo es, saldo se inicializa con el valor predeterminado 0.0
